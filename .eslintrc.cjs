@@ -18,5 +18,6 @@ module.exports = {
       'warn',
       { allowConstantExport: true },
     ],
+    'import/no-extraneous-dependencies': 0,
   },
 }
