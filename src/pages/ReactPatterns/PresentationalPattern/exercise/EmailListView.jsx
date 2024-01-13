@@ -1,4 +1,4 @@
-import { EmailCard } from '../../../../common/components/EmailCard/EmailCard';
+import { EmailCard } from 'common/components/EmailCard/EmailCard';
 import React from 'react';
 
 export const EmailListView = ({ data, check }) => {
